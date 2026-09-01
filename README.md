@@ -20,3 +20,6 @@ DELETE key_value FROM table_name
 SAVE_AS file_name
 READ_FROM file_name
 
+## AI disclosure
+The code was written fully by me. 
+AI was only used for bug fixing and for checking syntax of some more complicated instructions.
